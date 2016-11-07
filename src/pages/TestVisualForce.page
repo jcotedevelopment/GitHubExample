@@ -1,6 +1,6 @@
 <apex:page >
   <!-- Begin Default Content REMOVE THIS -->
-  <h1>Congratulations</h1>   Push from IntelliJ
+  <h1>Congratulations</h1>   Push from IntelliJ Testing for Recording
   We'll now Push This File to GitHub
   <!-- End Default Content REMOVE THIS -->
 </apex:page>
